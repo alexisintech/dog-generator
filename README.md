@@ -3,7 +3,7 @@ Choose a breed and generate a cute picture, name, and fun characteristics of you
 
 <div>
   <a href="https://alexisintech.github.io/dog-generator/" target=_blank>
-    <img src="doggo.gif" height="100%" />
+    <img src="doggo.gif" width="80%" />
   </a>
 </div>
 
